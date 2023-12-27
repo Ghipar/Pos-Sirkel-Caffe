@@ -1,0 +1,1 @@
+java -jar FinalProjek2.jar
